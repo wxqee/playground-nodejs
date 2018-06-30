@@ -6,5 +6,8 @@
     "start": "node index.js"
   },
   "author": "Wang Xiaoqiang <xiaoqiang.wang@storehub.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "log-symbols": "^2.2.0"
+  }
 }
