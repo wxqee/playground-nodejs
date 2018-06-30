@@ -1,0 +1,10 @@
+{
+  "name": "playground-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Wang Xiaoqiang <xiaoqiang.wang@storehub.com>",
+  "license": "MIT"
+}
